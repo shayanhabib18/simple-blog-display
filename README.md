@@ -45,5 +45,5 @@ The blog posts are loaded from the data.json file located in the public director
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 Feel free to customize this README file as needed for your project!
-This README file is formatted to be clear and informative for anyone visiting your GitHub repository. You can modify it further to better fit your project and add any additional sections you find necessary.
+This README file is formatted to be clear and informative for anyone visiting our GitHub repository. You can modify it further to better fit your project and add any additional sections you find necessary.
 
